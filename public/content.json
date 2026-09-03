@@ -1,0 +1,1774 @@
+{
+  "en": {
+    "brand": {
+      "name": "TOP PRIME STONE",
+      "location": "CAMBODIA",
+      "company": "TOP PRIME STONE CAMBODIA Co., Ltd.",
+      "website": "topprimestone.com"
+    },
+    "langCode": "en",
+    "nav": {
+      "materials": "Materials",
+      "products": "Products",
+      "quarry": "Quarry",
+      "factory": "Factory",
+      "videos": "Videos",
+      "about": "About",
+      "contact": "Contact",
+      "quote": "Request a Quote",
+      "language": "中文",
+      "menu": "Menu",
+      "close": "Close"
+    },
+    "hero": {
+      "title": "Stone from Cambodia. Made for the world.",
+      "description": "Natural stone sourced in Cambodia and prepared for projects that travel beyond borders.",
+      "image": "/assets/quarry/quarry-main.jpg",
+      "imageAlt": "Cambodian quarry with cut stone benches and green hills",
+      "explore": "Explore Materials",
+      "quote": "Request a Quote",
+      "scroll": "Scroll to explore"
+    },
+    "capabilities": [
+      {
+        "label": "01",
+        "title": "Quarry Source",
+        "description": "Grounded in Cambodian stone."
+      },
+      {
+        "label": "02",
+        "title": "Factory Processing",
+        "description": "From block to finished surface."
+      },
+      {
+        "label": "03",
+        "title": "Custom Supply",
+        "description": "Prepared for your specification."
+      }
+    ],
+    "sectionLabels": {
+      "materials": "The material library",
+      "products": "Selected work",
+      "quarry": "The quarry",
+      "factory": "The factory",
+      "videos": "Video gallery",
+      "about": "The company",
+      "contact": "Start a conversation"
+    },
+    "sectionTitles": {
+      "materials": "Four surfaces. One Cambodian origin.",
+      "products": "",
+      "quarry": "Where the stone begins.",
+      "factory": "A visible path from block to finished piece.",
+      "videos": "See the factory in motion.",
+      "about": "Built around the stone, close to the source.",
+      "contact": "Tell us what you are building."
+    },
+    "materials": [
+      {
+        "id": "cambodia-grey",
+        "image": "/assets/materials/cambodia-grey.jpg",
+        "name": "Cambodia Grey",
+        "description": "A balanced mid-grey tone for calm architectural surfaces.",
+        "application": "Monument · Countertops · Cladding · Flooring · Steps · Curb Stone",
+        "alt": "Cambodia Grey granite texture"
+      },
+      {
+        "id": "cambodia-luna-pearl",
+        "image": "/assets/materials/cambodia-luna-pearl.jpg",
+        "name": "Cambodia Luna Pearl",
+        "description": "Light granite with a soft granular sparkle and quiet depth.",
+        "application": "Monument · Countertops · Cladding · Flooring · Steps · Curb Stone",
+        "alt": "Cambodia Luna Pearl granite texture"
+      },
+      {
+        "id": "cambodia-dark-grey",
+        "image": "/assets/materials/cambodia-dark-grey.jpg",
+        "name": "Cambodia Impala",
+        "description": "Layered grey movement with a confident, grounded presence.",
+        "application": "Monument · Cladding · Flooring · Steps · Curb Stone",
+        "alt": "Cambodia Impala granite texture"
+      },
+      {
+        "id": "cambodia-black",
+        "image": "/assets/materials/cambodia-black.jpg",
+        "name": "Cambodia Black",
+        "description": "A deep charcoal granite with a fine, natural mineral rhythm.",
+        "application": "Monument · Cladding · Flooring · Steps · Curb Stone",
+        "alt": "Cambodia Black granite texture"
+      }
+    ],
+    "products": {
+      "description": "We are experienced and professional Tombstone/Countertops/Cut to Size projects supplier",
+      "groups": [
+        {
+          "id": "european-tombstone",
+          "title": "European Tombstone",
+          "images": [
+            {
+              "image": "/assets/products/european/european-01.jpg",
+              "alt": "European Tombstone 1"
+            },
+            {
+              "image": "/assets/products/european/european-02.jpg",
+              "alt": "European Tombstone 2"
+            },
+            {
+              "image": "/assets/products/european/european-03.jpg",
+              "alt": "European Tombstone 3"
+            },
+            {
+              "image": "/assets/products/european/european-04.jpg",
+              "alt": "European Tombstone 4"
+            },
+            {
+              "image": "/assets/products/european/european-05.jpg",
+              "alt": "European Tombstone 5"
+            },
+            {
+              "image": "/assets/products/european/european-06.jpg",
+              "alt": "European Tombstone 6"
+            },
+            {
+              "image": "/assets/products/european/european-07.jpg",
+              "alt": "European Tombstone 7"
+            },
+            {
+              "image": "/assets/products/european/european-08.jpg",
+              "alt": "European Tombstone 8"
+            },
+            {
+              "image": "/assets/products/european/european-09.jpg",
+              "alt": "European Tombstone 9"
+            },
+            {
+              "image": "/assets/products/european/european-10.jpg",
+              "alt": "European Tombstone 10"
+            },
+            {
+              "image": "/assets/products/european/european-11.jpg",
+              "alt": "European Tombstone 11"
+            },
+            {
+              "image": "/assets/products/european/european-12.jpg",
+              "alt": "European Tombstone 12"
+            },
+            {
+              "image": "/assets/products/european/european-13.jpg",
+              "alt": "European Tombstone 13"
+            },
+            {
+              "image": "/assets/products/european/european-14.jpg",
+              "alt": "European Tombstone 14"
+            },
+            {
+              "image": "/assets/products/european/european-15.jpg",
+              "alt": "European Tombstone 15"
+            },
+            {
+              "image": "/assets/products/european/european-16.jpg",
+              "alt": "European Tombstone 16"
+            },
+            {
+              "image": "/assets/products/european/european-17.jpg",
+              "alt": "European Tombstone 17"
+            },
+            {
+              "image": "/assets/products/european/european-18.jpg",
+              "alt": "European Tombstone 18"
+            },
+            {
+              "image": "/assets/products/european/european-19.jpg",
+              "alt": "European Tombstone 19"
+            },
+            {
+              "image": "/assets/products/european/european-20.jpg",
+              "alt": "European Tombstone 20"
+            },
+            {
+              "image": "/assets/products/european/european-21.jpg",
+              "alt": "European Tombstone 21"
+            },
+            {
+              "image": "/assets/products/european/european-22.jpg",
+              "alt": "European Tombstone 22"
+            },
+            {
+              "image": "/assets/products/european/european-23.jpg",
+              "alt": "European Tombstone 23"
+            },
+            {
+              "image": "/assets/products/european/european-24.jpg",
+              "alt": "European Tombstone 24"
+            },
+            {
+              "image": "/assets/products/european/european-25.jpg",
+              "alt": "European Tombstone 25"
+            },
+            {
+              "image": "/assets/products/european/european-26.jpg",
+              "alt": "European Tombstone 26"
+            },
+            {
+              "image": "/assets/products/european/european-27.jpg",
+              "alt": "European Tombstone 27"
+            },
+            {
+              "image": "/assets/products/european/european-28.jpg",
+              "alt": "European Tombstone 28"
+            },
+            {
+              "image": "/assets/products/european/european-29.jpg",
+              "alt": "European Tombstone 29"
+            },
+            {
+              "image": "/assets/products/european/european-30.jpg",
+              "alt": "European Tombstone 30"
+            },
+            {
+              "image": "/assets/products/european/european-31.jpg",
+              "alt": "European Tombstone 31"
+            },
+            {
+              "image": "/assets/products/european/european-32.jpg",
+              "alt": "European Tombstone 32"
+            },
+            {
+              "image": "/assets/products/european/european-33.jpg",
+              "alt": "European Tombstone 33"
+            },
+            {
+              "image": "/assets/products/european/european-34.jpg",
+              "alt": "European Tombstone 34"
+            },
+            {
+              "image": "/assets/products/european/european-35.jpg",
+              "alt": "European Tombstone 35"
+            },
+            {
+              "image": "/assets/products/european/european-36.jpg",
+              "alt": "European Tombstone 36"
+            },
+            {
+              "image": "/assets/products/european/european-37.jpg",
+              "alt": "European Tombstone 37"
+            },
+            {
+              "image": "/assets/products/european/european-38.jpg",
+              "alt": "European Tombstone 38"
+            },
+            {
+              "image": "/assets/products/european/european-39.jpg",
+              "alt": "European Tombstone 39"
+            },
+            {
+              "image": "/assets/products/european/european-40.jpg",
+              "alt": "European Tombstone 40"
+            },
+            {
+              "image": "/assets/products/european/european-41.jpg",
+              "alt": "European Tombstone 41"
+            },
+            {
+              "image": "/assets/products/european/european-42.jpg",
+              "alt": "European Tombstone 42"
+            },
+            {
+              "image": "/assets/products/european/european-43.jpg",
+              "alt": "European Tombstone 43"
+            },
+            {
+              "image": "/assets/products/european/european-44.jpg",
+              "alt": "European Tombstone 44"
+            },
+            {
+              "image": "/assets/products/european/european-45.jpg",
+              "alt": "European Tombstone 45"
+            },
+            {
+              "image": "/assets/products/european/european-46.jpg",
+              "alt": "European Tombstone 46"
+            },
+            {
+              "image": "/assets/products/european/european-47.jpg",
+              "alt": "European Tombstone 47"
+            },
+            {
+              "image": "/assets/products/european/european-48.jpg",
+              "alt": "European Tombstone 48"
+            },
+            {
+              "image": "/assets/products/european/european-49.jpg",
+              "alt": "European Tombstone 49"
+            },
+            {
+              "image": "/assets/products/european/european-50.jpg",
+              "alt": "European Tombstone 50"
+            },
+            {
+              "image": "/assets/products/european/european-51.jpg",
+              "alt": "European Tombstone 51"
+            },
+            {
+              "image": "/assets/products/european/european-52.jpg",
+              "alt": "European Tombstone 52"
+            },
+            {
+              "image": "/assets/products/european/european-53.jpg",
+              "alt": "European Tombstone 53"
+            },
+            {
+              "image": "/assets/products/european/european-54.jpg",
+              "alt": "European Tombstone 54"
+            },
+            {
+              "image": "/assets/products/european/european-55.jpg",
+              "alt": "European Tombstone 55"
+            },
+            {
+              "image": "/assets/products/european/european-56.jpg",
+              "alt": "European Tombstone 56"
+            },
+            {
+              "image": "/assets/products/european/european-57.jpg",
+              "alt": "European Tombstone 57"
+            },
+            {
+              "image": "/assets/products/european/european-58.jpg",
+              "alt": "European Tombstone 58"
+            },
+            {
+              "image": "/assets/products/european/european-59.jpg",
+              "alt": "European Tombstone 59"
+            },
+            {
+              "image": "/assets/products/european/european-60.jpg",
+              "alt": "European Tombstone 60"
+            },
+            {
+              "image": "/assets/products/european/european-61.jpg",
+              "alt": "European Tombstone 61"
+            },
+            {
+              "image": "/assets/products/european/european-62.jpg",
+              "alt": "European Tombstone 62"
+            },
+            {
+              "image": "/assets/products/european/european-63.jpg",
+              "alt": "European Tombstone 63"
+            },
+            {
+              "image": "/assets/products/european/european-64.jpg",
+              "alt": "European Tombstone 64"
+            },
+            {
+              "image": "/assets/products/european/european-65.jpg",
+              "alt": "European Tombstone 65"
+            },
+            {
+              "image": "/assets/products/european/european-66.jpg",
+              "alt": "European Tombstone 66"
+            },
+            {
+              "image": "/assets/products/european/european-67.jpg",
+              "alt": "European Tombstone 67"
+            },
+            {
+              "image": "/assets/products/european/european-68.jpg",
+              "alt": "European Tombstone 68"
+            },
+            {
+              "image": "/assets/products/european/european-69.jpg",
+              "alt": "European Tombstone 69"
+            },
+            {
+              "image": "/assets/products/european/european-70.jpg",
+              "alt": "European Tombstone 70"
+            },
+            {
+              "image": "/assets/products/european/european-71.jpg",
+              "alt": "European Tombstone 71"
+            },
+            {
+              "image": "/assets/products/european/european-72.jpg",
+              "alt": "European Tombstone 72"
+            },
+            {
+              "image": "/assets/products/european/european-73.jpg",
+              "alt": "European Tombstone 73"
+            },
+            {
+              "image": "/assets/products/european/european-74.jpg",
+              "alt": "European Tombstone 74"
+            },
+            {
+              "image": "/assets/products/european/european-75.jpg",
+              "alt": "European Tombstone 75"
+            },
+            {
+              "image": "/assets/products/european/european-76.jpg",
+              "alt": "European Tombstone 76"
+            },
+            {
+              "image": "/assets/products/european/european-77.jpg",
+              "alt": "European Tombstone 77"
+            },
+            {
+              "image": "/assets/products/european/european-78.jpg",
+              "alt": "European Tombstone 78"
+            },
+            {
+              "image": "/assets/products/european/european-79.jpg",
+              "alt": "European Tombstone 79"
+            },
+            {
+              "image": "/assets/products/european/european-80.jpg",
+              "alt": "European Tombstone 80"
+            },
+            {
+              "image": "/assets/products/european/european-81.jpg",
+              "alt": "European Tombstone 81"
+            },
+            {
+              "image": "/assets/products/european/european-82.jpg",
+              "alt": "European Tombstone 82"
+            },
+            {
+              "image": "/assets/products/european/european-83.jpg",
+              "alt": "European Tombstone 83"
+            },
+            {
+              "image": "/assets/products/european/european-84.jpg",
+              "alt": "European Tombstone 84"
+            },
+            {
+              "image": "/assets/products/european/european-85.jpg",
+              "alt": "European Tombstone 85"
+            },
+            {
+              "image": "/assets/products/european/european-86.jpg",
+              "alt": "European Tombstone 86"
+            },
+            {
+              "image": "/assets/products/european/european-87.jpg",
+              "alt": "European Tombstone 87"
+            },
+            {
+              "image": "/assets/products/european/european-88.jpg",
+              "alt": "European Tombstone 88"
+            },
+            {
+              "image": "/assets/products/european/european-89.jpg",
+              "alt": "Stone Vest Production Line"
+            }
+          ]
+        },
+        {
+          "id": "us-monument",
+          "title": "U.S Monument",
+          "images": [
+            {
+              "image": "/assets/products/usmonument/usmonument-01.jpg",
+              "alt": "American Monument 1"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-02.jpg",
+              "alt": "Sculpture 1"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-03.jpg",
+              "alt": "American Monument 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-04.jpg",
+              "alt": "Columbaria 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-05.jpg",
+              "alt": "Sculpture 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-06.jpg",
+              "alt": "American Monument 3"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-07.jpg",
+              "alt": "American Monument 5"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-08.jpg",
+              "alt": "American Monument 6"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-09.jpg",
+              "alt": "American Monument 7"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-10.jpg",
+              "alt": "American Monument 8"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-11.jpg",
+              "alt": "American Monument 9"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-12.jpg",
+              "alt": "American Monument 10"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-13.jpg",
+              "alt": "American Monument 11"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-14.jpg",
+              "alt": "American Monument 12"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-15.jpg",
+              "alt": "American Monument 13"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-16.jpg",
+              "alt": "American Monument 14"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-17.jpg",
+              "alt": "American Monument 15"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-18.jpg",
+              "alt": "American Monument 16"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-19.jpg",
+              "alt": "American Monument 17"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-20.jpg",
+              "alt": "American Monument 18"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-21.jpg",
+              "alt": "Columbaria"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-22.jpg",
+              "alt": "Stone Vest Production Line"
+            }
+          ]
+        },
+        {
+          "id": "countertop",
+          "title": "Countertop",
+          "images": [
+            {
+              "image": "/assets/products/countertop/countertop-01.jpg",
+              "alt": "Island Processing 1"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-02.jpg",
+              "alt": "Luna Pearl Countertop 1"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-03.jpg",
+              "alt": "Countertop Packing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-04.jpg",
+              "alt": "Hand Craft 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-05.jpg",
+              "alt": "Island Processing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-06.jpg",
+              "alt": "Luna Pearl Countertop 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-07.jpg",
+              "alt": "Packing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-08.jpg",
+              "alt": "Luna Pearl Countertop 3"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-09.jpg",
+              "alt": "Countertop Inspection"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-10.jpg",
+              "alt": "Countertop Packing Area"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-11.jpg",
+              "alt": "Countertop"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-12.jpg",
+              "alt": "Countertops"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-13.jpg",
+              "alt": "Hand Craft"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-14.jpg",
+              "alt": "Inspection Area"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-15.jpg",
+              "alt": "Kitchen"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-16.jpg",
+              "alt": "Packing"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-17.jpg",
+              "alt": "Rod Reinforced"
+            }
+          ]
+        },
+        {
+          "id": "building-material",
+          "title": "Building Material",
+          "images": [
+            {
+              "image": "/assets/products/building/building-01.jpg",
+              "alt": "Flooring"
+            },
+            {
+              "image": "/assets/products/building/building-02.jpg",
+              "alt": "Swimming Pool Cap"
+            },
+            {
+              "image": "/assets/products/building/building-03.jpg",
+              "alt": "Swimming Pool Cap 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "Slabs",
+        "Cut-to-size",
+        "Custom stonework"
+      ]
+    },
+    "quarry": [
+      {
+        "id": "quarry-01",
+        "image": "/assets/quarry/quarry-03.jpg",
+        "alt": "Layered granite face at the quarry"
+      },
+      {
+        "id": "quarry-02",
+        "image": "/assets/quarry/quarry-04.jpg",
+        "alt": "Fresh-cut granite surface"
+      },
+      {
+        "id": "quarry-03",
+        "image": "/assets/quarry/quarry-05.jpg",
+        "alt": "Open quarry with cut stone steps"
+      },
+      {
+        "id": "quarry-04",
+        "image": "/assets/quarry/quarry-06.jpg",
+        "alt": "Quarry wall with exposed stone"
+      },
+      {
+        "id": "quarry-05",
+        "image": "/assets/quarry/quarry-07.jpg",
+        "alt": "Panorama of the quarry site"
+      },
+      {
+        "id": "quarry-06",
+        "image": "/assets/quarry/quarry-08.jpg",
+        "alt": "Heavy stone blocks at the quarry"
+      },
+      {
+        "id": "quarry-07",
+        "image": "/assets/quarry/quarry-09.jpg",
+        "alt": "Quarry overlook toward the horizon"
+      }
+    ],
+    "quarryHint": "Drag to explore, or use the arrows.",
+    "productsHint": "Drag to explore, or use the arrows.",
+    "factory": [
+      {
+        "id": "f1",
+        "label": "01",
+        "title": "Diamond Cutters",
+        "description": "",
+        "image": "/assets/factory/factory-01.jpg",
+        "alt": "Diamond cutters"
+      },
+      {
+        "id": "f2",
+        "label": "02",
+        "title": "Automatic Polishing",
+        "description": "",
+        "image": "/assets/factory/factory-02.jpg",
+        "alt": "Automatic polishing"
+      },
+      {
+        "id": "f3",
+        "label": "03",
+        "title": "Hand Polishing Line",
+        "description": "",
+        "image": "/assets/factory/factory-03.jpg",
+        "alt": "Hand polishing line"
+      },
+      {
+        "id": "f4",
+        "label": "04",
+        "title": "Hand Craft",
+        "description": "",
+        "image": "/assets/factory/factory-04.jpg",
+        "alt": "Hand craft"
+      },
+      {
+        "id": "f5",
+        "label": "05",
+        "title": "Stone Vest Production Line",
+        "description": "",
+        "image": "/assets/factory/factory-05.jpg",
+        "alt": "Stone vest production line"
+      },
+      {
+        "id": "f6",
+        "label": "06",
+        "title": "Countertop Inspection Area",
+        "description": "",
+        "image": "/assets/factory/factory-06.jpg",
+        "alt": "Countertop inspection area"
+      },
+      {
+        "id": "f6b",
+        "label": "07",
+        "title": "Tombstone Inspection",
+        "description": "",
+        "image": "/assets/factory/factory-07.jpg",
+        "alt": "Tombstone inspection"
+      },
+      {
+        "id": "f7",
+        "label": "08",
+        "title": "Countertop Packing",
+        "description": "",
+        "image": "/assets/factory/factory-08.jpg",
+        "alt": "Countertop packing"
+      },
+      {
+        "id": "f7b",
+        "label": "09",
+        "title": "Tombstone Warehouse",
+        "description": "",
+        "image": "/assets/factory/factory-09.jpg",
+        "alt": "Tombstone warehouse"
+      },
+      {
+        "id": "f8",
+        "label": "10",
+        "title": "Packing",
+        "description": "",
+        "image": "/assets/factory/factory-10.jpg",
+        "alt": "Packing"
+      },
+      {
+        "id": "f8b",
+        "label": "11",
+        "title": "Packing",
+        "description": "",
+        "image": "/assets/factory/factory-11.jpg",
+        "alt": "Packing"
+      },
+      {
+        "id": "f8c",
+        "label": "12",
+        "title": "Packing",
+        "description": "",
+        "image": "/assets/factory/factory-12.jpg",
+        "alt": "Packing"
+      },
+      {
+        "id": "f9",
+        "label": "13",
+        "title": "Shipping Warehouse",
+        "description": "",
+        "image": "/assets/factory/factory-13.jpg",
+        "alt": "Shipping warehouse"
+      },
+      {
+        "id": "f10",
+        "label": "14",
+        "title": "Loading Dock",
+        "description": "",
+        "image": "/assets/factory/factory-14.jpg",
+        "alt": "Loading dock"
+      }
+    ],
+    "factoryHint": "Drag to explore, or use the arrows.",
+    "videos": [
+      {
+        "id": "factory-tour-part-1",
+        "title": "Factory Tour — Part 1",
+        "youtubeId": "WXB1pPSJNJs"
+      },
+      {
+        "id": "factory-tour-part-2",
+        "title": "Factory Tour — Part 2",
+        "youtubeId": "1ueokT4t1fE"
+      }
+    ],
+    "videosHint": "More videos coming soon.",
+    "about": {
+      "description": "Top Prime Stone Cambodia is a leading granite manufacturer and the proud quarry owner of Cambodia Grey. We specialize in high-quality tombstones, countertops, and custom cut-to-size solutions. We are excited to meet you here and explore new growth opportunities together.",
+      "secondary": "",
+      "image": "/assets/factory/warehouse-exterior.jpg",
+      "imageAlt": "TOP PRIME stone factory exterior",
+      "addressLabel": "Base",
+      "address": "Ou Snuol Village, Toap Mean Commune, Thpong District, Kampong Speu Province, Cambodia"
+    },
+    "contact": {
+      "description": "For material inquiries, custom stonework, or partnership conversations, send us a message.",
+      "details": {
+        "phone": {
+          "label": "Phone",
+          "value": "+86 13806008760",
+          "href": "tel:+8613806008760"
+        },
+        "email": {
+          "label": "Email",
+          "value": "sales@topprimestone.com",
+          "href": "mailto:sales@topprimestone.com"
+        },
+        "whatsapp": {
+          "label": "WhatsApp",
+          "value": "+86 13806008760",
+          "href": "https://wa.me/8613806008760",
+          "external": true
+        }
+      },
+      "addressLabel": "Address",
+      "address": "Ou Snuol Village, Toap Mean Commune, Thpong District, Kampong Speu Province, Cambodia",
+      "websiteLabel": "Website",
+      "website": {
+        "value": "topprimestone.com",
+        "href": "https://topprimestone.com",
+        "external": true
+      }
+    },
+    "form": {
+      "name": "Your name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "material": "Material interest",
+      "materialPlaceholder": "Select a material",
+      "message": "Project details",
+      "messagePlaceholder": "Tell us about your material, dimensions, finish, or project.",
+      "submit": "Submit Inquiry",
+      "required": "Required",
+      "success": "Thank you. Your inquiry is ready for the next conversation.",
+      "note": "This preview stores the form locally. A real inbox or CRM can be connected before launch.",
+      "options": [
+        "Cambodia Grey",
+        "Cambodia Luna Pearl",
+        "Cambodia Impala",
+        "Cambodia Black"
+      ]
+    },
+    "footer": {
+      "line": "Natural stone, close to its source.",
+      "copyright": "© 2026 TOP PRIME STONE CAMBODIA Co., Ltd."
+    }
+  },
+  "zh": {
+    "brand": {
+      "name": "TOP PRIME STONE",
+      "location": "CAMBODIA",
+      "company": "TOP PRIME STONE CAMBODIA Co., Ltd.",
+      "website": "topprimestone.com"
+    },
+    "langCode": "zh",
+    "nav": {
+      "materials": "石材",
+      "products": "产品",
+      "quarry": "矿山",
+      "factory": "工厂",
+      "videos": "视频",
+      "about": "关于我们",
+      "contact": "联系",
+      "quote": "获取报价",
+      "language": "EN",
+      "menu": "菜单",
+      "close": "关闭"
+    },
+    "hero": {
+      "title": "柬埔寨石材，连接世界建筑。",
+      "description": "源自柬埔寨的天然石材，为跨越边界的建筑项目做好准备。",
+      "image": "/assets/quarry/quarry-main.jpg",
+      "imageAlt": "柬埔寨矿山与切割台阶全景",
+      "explore": "查看石材",
+      "quote": "获取报价",
+      "scroll": "向下探索"
+    },
+    "capabilities": [
+      {
+        "label": "01",
+        "title": "矿山源头",
+        "description": "扎根于柬埔寨石材。"
+      },
+      {
+        "label": "02",
+        "title": "工厂加工",
+        "description": "从荒料到完成表面。"
+      },
+      {
+        "label": "03",
+        "title": "定制供应",
+        "description": "按项目规格准备。"
+      }
+    ],
+    "sectionLabels": {
+      "materials": "石材目录",
+      "products": "精选作品",
+      "quarry": "矿山",
+      "factory": "工厂",
+      "videos": "视频展示",
+      "about": "关于公司",
+      "contact": "开始沟通"
+    },
+    "sectionTitles": {
+      "materials": "四种表面，同一个柬埔寨源头。",
+      "products": "",
+      "quarry": "石材从这里开始。",
+      "factory": "从荒料到成品，每一步清晰可见。",
+      "videos": "看看工厂的运转。",
+      "about": "围绕石材建立，靠近真实源头。",
+      "contact": "告诉我们，你正在建造什么。"
+    },
+    "materials": [
+      {
+        "id": "cambodia-grey",
+        "image": "/assets/materials/cambodia-grey.jpg",
+        "name": "Cambodia Grey",
+        "description": "均衡的中灰色调，适合安静克制的建筑表面。",
+        "application": "墓碑 · 台面 · 墙面 · 地面 · 台阶 · 路缘石",
+        "alt": "Cambodia Grey 柬埔寨灰色花岗岩纹理"
+      },
+      {
+        "id": "cambodia-luna-pearl",
+        "image": "/assets/materials/cambodia-luna-pearl.jpg",
+        "name": "Cambodia Luna Pearl",
+        "description": "浅色花岗岩带有柔和的颗粒光泽和安静的层次。",
+        "application": "墓碑 · 台面 · 墙面 · 地面 · 台阶 · 路缘石",
+        "alt": "Cambodia Luna Pearl 柬埔寨月光珍珠花岗岩纹理"
+      },
+      {
+        "id": "cambodia-dark-grey",
+        "image": "/assets/materials/cambodia-dark-grey.jpg",
+        "name": "Cambodia Impala",
+        "description": "层次丰富的深灰色表面，沉稳而有力量。",
+        "application": "墓碑 · 墙面 · 地面 · 台阶 · 路缘石",
+        "alt": "Cambodia Impala 柬埔寨深灰色花岗岩纹理"
+      },
+      {
+        "id": "cambodia-black",
+        "image": "/assets/materials/cambodia-black.jpg",
+        "name": "Cambodia Black",
+        "description": "深炭色花岗岩，呈现细腻而自然的矿物肌理。",
+        "application": "墓碑 · 墙面 · 地面 · 台阶 · 路缘石",
+        "alt": "Cambodia Black 柬埔寨黑色花岗岩纹理"
+      }
+    ],
+    "products": {
+      "description": "我们是有经验且专业的墓碑 / 台面 / 定制规格板项目供应商",
+      "groups": [
+        {
+          "id": "european-tombstone",
+          "title": "欧式墓碑",
+          "images": [
+            {
+              "image": "/assets/products/european/european-01.jpg",
+              "alt": "European Tombstone 1"
+            },
+            {
+              "image": "/assets/products/european/european-02.jpg",
+              "alt": "European Tombstone 2"
+            },
+            {
+              "image": "/assets/products/european/european-03.jpg",
+              "alt": "European Tombstone 3"
+            },
+            {
+              "image": "/assets/products/european/european-04.jpg",
+              "alt": "European Tombstone 4"
+            },
+            {
+              "image": "/assets/products/european/european-05.jpg",
+              "alt": "European Tombstone 5"
+            },
+            {
+              "image": "/assets/products/european/european-06.jpg",
+              "alt": "European Tombstone 6"
+            },
+            {
+              "image": "/assets/products/european/european-07.jpg",
+              "alt": "European Tombstone 7"
+            },
+            {
+              "image": "/assets/products/european/european-08.jpg",
+              "alt": "European Tombstone 8"
+            },
+            {
+              "image": "/assets/products/european/european-09.jpg",
+              "alt": "European Tombstone 9"
+            },
+            {
+              "image": "/assets/products/european/european-10.jpg",
+              "alt": "European Tombstone 10"
+            },
+            {
+              "image": "/assets/products/european/european-11.jpg",
+              "alt": "European Tombstone 11"
+            },
+            {
+              "image": "/assets/products/european/european-12.jpg",
+              "alt": "European Tombstone 12"
+            },
+            {
+              "image": "/assets/products/european/european-13.jpg",
+              "alt": "European Tombstone 13"
+            },
+            {
+              "image": "/assets/products/european/european-14.jpg",
+              "alt": "European Tombstone 14"
+            },
+            {
+              "image": "/assets/products/european/european-15.jpg",
+              "alt": "European Tombstone 15"
+            },
+            {
+              "image": "/assets/products/european/european-16.jpg",
+              "alt": "European Tombstone 16"
+            },
+            {
+              "image": "/assets/products/european/european-17.jpg",
+              "alt": "European Tombstone 17"
+            },
+            {
+              "image": "/assets/products/european/european-18.jpg",
+              "alt": "European Tombstone 18"
+            },
+            {
+              "image": "/assets/products/european/european-19.jpg",
+              "alt": "European Tombstone 19"
+            },
+            {
+              "image": "/assets/products/european/european-20.jpg",
+              "alt": "European Tombstone 20"
+            },
+            {
+              "image": "/assets/products/european/european-21.jpg",
+              "alt": "European Tombstone 21"
+            },
+            {
+              "image": "/assets/products/european/european-22.jpg",
+              "alt": "European Tombstone 22"
+            },
+            {
+              "image": "/assets/products/european/european-23.jpg",
+              "alt": "European Tombstone 23"
+            },
+            {
+              "image": "/assets/products/european/european-24.jpg",
+              "alt": "European Tombstone 24"
+            },
+            {
+              "image": "/assets/products/european/european-25.jpg",
+              "alt": "European Tombstone 25"
+            },
+            {
+              "image": "/assets/products/european/european-26.jpg",
+              "alt": "European Tombstone 26"
+            },
+            {
+              "image": "/assets/products/european/european-27.jpg",
+              "alt": "European Tombstone 27"
+            },
+            {
+              "image": "/assets/products/european/european-28.jpg",
+              "alt": "European Tombstone 28"
+            },
+            {
+              "image": "/assets/products/european/european-29.jpg",
+              "alt": "European Tombstone 29"
+            },
+            {
+              "image": "/assets/products/european/european-30.jpg",
+              "alt": "European Tombstone 30"
+            },
+            {
+              "image": "/assets/products/european/european-31.jpg",
+              "alt": "European Tombstone 31"
+            },
+            {
+              "image": "/assets/products/european/european-32.jpg",
+              "alt": "European Tombstone 32"
+            },
+            {
+              "image": "/assets/products/european/european-33.jpg",
+              "alt": "European Tombstone 33"
+            },
+            {
+              "image": "/assets/products/european/european-34.jpg",
+              "alt": "European Tombstone 34"
+            },
+            {
+              "image": "/assets/products/european/european-35.jpg",
+              "alt": "European Tombstone 35"
+            },
+            {
+              "image": "/assets/products/european/european-36.jpg",
+              "alt": "European Tombstone 36"
+            },
+            {
+              "image": "/assets/products/european/european-37.jpg",
+              "alt": "European Tombstone 37"
+            },
+            {
+              "image": "/assets/products/european/european-38.jpg",
+              "alt": "European Tombstone 38"
+            },
+            {
+              "image": "/assets/products/european/european-39.jpg",
+              "alt": "European Tombstone 39"
+            },
+            {
+              "image": "/assets/products/european/european-40.jpg",
+              "alt": "European Tombstone 40"
+            },
+            {
+              "image": "/assets/products/european/european-41.jpg",
+              "alt": "European Tombstone 41"
+            },
+            {
+              "image": "/assets/products/european/european-42.jpg",
+              "alt": "European Tombstone 42"
+            },
+            {
+              "image": "/assets/products/european/european-43.jpg",
+              "alt": "European Tombstone 43"
+            },
+            {
+              "image": "/assets/products/european/european-44.jpg",
+              "alt": "European Tombstone 44"
+            },
+            {
+              "image": "/assets/products/european/european-45.jpg",
+              "alt": "European Tombstone 45"
+            },
+            {
+              "image": "/assets/products/european/european-46.jpg",
+              "alt": "European Tombstone 46"
+            },
+            {
+              "image": "/assets/products/european/european-47.jpg",
+              "alt": "European Tombstone 47"
+            },
+            {
+              "image": "/assets/products/european/european-48.jpg",
+              "alt": "European Tombstone 48"
+            },
+            {
+              "image": "/assets/products/european/european-49.jpg",
+              "alt": "European Tombstone 49"
+            },
+            {
+              "image": "/assets/products/european/european-50.jpg",
+              "alt": "European Tombstone 50"
+            },
+            {
+              "image": "/assets/products/european/european-51.jpg",
+              "alt": "European Tombstone 51"
+            },
+            {
+              "image": "/assets/products/european/european-52.jpg",
+              "alt": "European Tombstone 52"
+            },
+            {
+              "image": "/assets/products/european/european-53.jpg",
+              "alt": "European Tombstone 53"
+            },
+            {
+              "image": "/assets/products/european/european-54.jpg",
+              "alt": "European Tombstone 54"
+            },
+            {
+              "image": "/assets/products/european/european-55.jpg",
+              "alt": "European Tombstone 55"
+            },
+            {
+              "image": "/assets/products/european/european-56.jpg",
+              "alt": "European Tombstone 56"
+            },
+            {
+              "image": "/assets/products/european/european-57.jpg",
+              "alt": "European Tombstone 57"
+            },
+            {
+              "image": "/assets/products/european/european-58.jpg",
+              "alt": "European Tombstone 58"
+            },
+            {
+              "image": "/assets/products/european/european-59.jpg",
+              "alt": "European Tombstone 59"
+            },
+            {
+              "image": "/assets/products/european/european-60.jpg",
+              "alt": "European Tombstone 60"
+            },
+            {
+              "image": "/assets/products/european/european-61.jpg",
+              "alt": "European Tombstone 61"
+            },
+            {
+              "image": "/assets/products/european/european-62.jpg",
+              "alt": "European Tombstone 62"
+            },
+            {
+              "image": "/assets/products/european/european-63.jpg",
+              "alt": "European Tombstone 63"
+            },
+            {
+              "image": "/assets/products/european/european-64.jpg",
+              "alt": "European Tombstone 64"
+            },
+            {
+              "image": "/assets/products/european/european-65.jpg",
+              "alt": "European Tombstone 65"
+            },
+            {
+              "image": "/assets/products/european/european-66.jpg",
+              "alt": "European Tombstone 66"
+            },
+            {
+              "image": "/assets/products/european/european-67.jpg",
+              "alt": "European Tombstone 67"
+            },
+            {
+              "image": "/assets/products/european/european-68.jpg",
+              "alt": "European Tombstone 68"
+            },
+            {
+              "image": "/assets/products/european/european-69.jpg",
+              "alt": "European Tombstone 69"
+            },
+            {
+              "image": "/assets/products/european/european-70.jpg",
+              "alt": "European Tombstone 70"
+            },
+            {
+              "image": "/assets/products/european/european-71.jpg",
+              "alt": "European Tombstone 71"
+            },
+            {
+              "image": "/assets/products/european/european-72.jpg",
+              "alt": "European Tombstone 72"
+            },
+            {
+              "image": "/assets/products/european/european-73.jpg",
+              "alt": "European Tombstone 73"
+            },
+            {
+              "image": "/assets/products/european/european-74.jpg",
+              "alt": "European Tombstone 74"
+            },
+            {
+              "image": "/assets/products/european/european-75.jpg",
+              "alt": "European Tombstone 75"
+            },
+            {
+              "image": "/assets/products/european/european-76.jpg",
+              "alt": "European Tombstone 76"
+            },
+            {
+              "image": "/assets/products/european/european-77.jpg",
+              "alt": "European Tombstone 77"
+            },
+            {
+              "image": "/assets/products/european/european-78.jpg",
+              "alt": "European Tombstone 78"
+            },
+            {
+              "image": "/assets/products/european/european-79.jpg",
+              "alt": "European Tombstone 79"
+            },
+            {
+              "image": "/assets/products/european/european-80.jpg",
+              "alt": "European Tombstone 80"
+            },
+            {
+              "image": "/assets/products/european/european-81.jpg",
+              "alt": "European Tombstone 81"
+            },
+            {
+              "image": "/assets/products/european/european-82.jpg",
+              "alt": "European Tombstone 82"
+            },
+            {
+              "image": "/assets/products/european/european-83.jpg",
+              "alt": "European Tombstone 83"
+            },
+            {
+              "image": "/assets/products/european/european-84.jpg",
+              "alt": "European Tombstone 84"
+            },
+            {
+              "image": "/assets/products/european/european-85.jpg",
+              "alt": "European Tombstone 85"
+            },
+            {
+              "image": "/assets/products/european/european-86.jpg",
+              "alt": "European Tombstone 86"
+            },
+            {
+              "image": "/assets/products/european/european-87.jpg",
+              "alt": "European Tombstone 87"
+            },
+            {
+              "image": "/assets/products/european/european-88.jpg",
+              "alt": "European Tombstone 88"
+            },
+            {
+              "image": "/assets/products/european/european-89.jpg",
+              "alt": "Stone Vest Production Line"
+            }
+          ]
+        },
+        {
+          "id": "us-monument",
+          "title": "美式纪念碑",
+          "images": [
+            {
+              "image": "/assets/products/usmonument/usmonument-01.jpg",
+              "alt": "American Monument 1"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-02.jpg",
+              "alt": "Sculpture 1"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-03.jpg",
+              "alt": "American Monument 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-04.jpg",
+              "alt": "Columbaria 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-05.jpg",
+              "alt": "Sculpture 2"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-06.jpg",
+              "alt": "American Monument 3"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-07.jpg",
+              "alt": "American Monument 5"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-08.jpg",
+              "alt": "American Monument 6"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-09.jpg",
+              "alt": "American Monument 7"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-10.jpg",
+              "alt": "American Monument 8"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-11.jpg",
+              "alt": "American Monument 9"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-12.jpg",
+              "alt": "American Monument 10"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-13.jpg",
+              "alt": "American Monument 11"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-14.jpg",
+              "alt": "American Monument 12"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-15.jpg",
+              "alt": "American Monument 13"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-16.jpg",
+              "alt": "American Monument 14"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-17.jpg",
+              "alt": "American Monument 15"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-18.jpg",
+              "alt": "American Monument 16"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-19.jpg",
+              "alt": "American Monument 17"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-20.jpg",
+              "alt": "American Monument 18"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-21.jpg",
+              "alt": "Columbaria"
+            },
+            {
+              "image": "/assets/products/usmonument/usmonument-22.jpg",
+              "alt": "Stone Vest Production Line"
+            }
+          ]
+        },
+        {
+          "id": "countertop",
+          "title": "台面",
+          "images": [
+            {
+              "image": "/assets/products/countertop/countertop-01.jpg",
+              "alt": "Island Processing 1"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-02.jpg",
+              "alt": "Luna Pearl Countertop 1"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-03.jpg",
+              "alt": "Countertop Packing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-04.jpg",
+              "alt": "Hand Craft 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-05.jpg",
+              "alt": "Island Processing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-06.jpg",
+              "alt": "Luna Pearl Countertop 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-07.jpg",
+              "alt": "Packing 2"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-08.jpg",
+              "alt": "Luna Pearl Countertop 3"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-09.jpg",
+              "alt": "Countertop Inspection"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-10.jpg",
+              "alt": "Countertop Packing Area"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-11.jpg",
+              "alt": "Countertop"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-12.jpg",
+              "alt": "Countertops"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-13.jpg",
+              "alt": "Hand Craft"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-14.jpg",
+              "alt": "Inspection Area"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-15.jpg",
+              "alt": "Kitchen"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-16.jpg",
+              "alt": "Packing"
+            },
+            {
+              "image": "/assets/products/countertop/countertop-17.jpg",
+              "alt": "Rod Reinforced"
+            }
+          ]
+        },
+        {
+          "id": "building-material",
+          "title": "建筑材料",
+          "images": [
+            {
+              "image": "/assets/products/building/building-01.jpg",
+              "alt": "Flooring"
+            },
+            {
+              "image": "/assets/products/building/building-02.jpg",
+              "alt": "Swimming Pool Cap"
+            },
+            {
+              "image": "/assets/products/building/building-03.jpg",
+              "alt": "Swimming Pool Cap 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "大板",
+        "定制规格板",
+        "定制石材"
+      ]
+    },
+    "quarry": [
+      {
+        "id": "quarry-01",
+        "image": "/assets/quarry/quarry-03.jpg",
+        "alt": "矿山的层状花岗岩岩面"
+      },
+      {
+        "id": "quarry-02",
+        "image": "/assets/quarry/quarry-04.jpg",
+        "alt": "新切割的花岗岩表面"
+      },
+      {
+        "id": "quarry-03",
+        "image": "/assets/quarry/quarry-05.jpg",
+        "alt": "开阔矿区与切割的石阶"
+      },
+      {
+        "id": "quarry-04",
+        "image": "/assets/quarry/quarry-06.jpg",
+        "alt": "露出石材的矿山岩壁"
+      },
+      {
+        "id": "quarry-05",
+        "image": "/assets/quarry/quarry-07.jpg",
+        "alt": "矿山全景"
+      },
+      {
+        "id": "quarry-06",
+        "image": "/assets/quarry/quarry-08.jpg",
+        "alt": "矿山上的大型石块"
+      },
+      {
+        "id": "quarry-07",
+        "image": "/assets/quarry/quarry-09.jpg",
+        "alt": "俯瞰矿山望向远方"
+      }
+    ],
+    "quarryHint": "← 拖动或点击左右按钮查看 →",
+    "productsHint": "← 拖动或点击左右按钮查看 →",
+    "factory": [
+      {
+        "id": "f1",
+        "label": "01",
+        "title": "金刚石切割机",
+        "description": "",
+        "image": "/assets/factory/factory-01.jpg",
+        "alt": "金刚石切割机"
+      },
+      {
+        "id": "f2",
+        "label": "02",
+        "title": "自动抛光",
+        "description": "",
+        "image": "/assets/factory/factory-02.jpg",
+        "alt": "自动抛光"
+      },
+      {
+        "id": "f3",
+        "label": "03",
+        "title": "手抛线",
+        "description": "",
+        "image": "/assets/factory/factory-03.jpg",
+        "alt": "手抛线"
+      },
+      {
+        "id": "f4",
+        "label": "04",
+        "title": "手工制作",
+        "description": "",
+        "image": "/assets/factory/factory-04.jpg",
+        "alt": "手工制作"
+      },
+      {
+        "id": "f5",
+        "label": "05",
+        "title": "石材背心生产线",
+        "description": "",
+        "image": "/assets/factory/factory-05.jpg",
+        "alt": "石材背心生产线"
+      },
+      {
+        "id": "f6",
+        "label": "06",
+        "title": "台面检验区",
+        "description": "",
+        "image": "/assets/factory/factory-06.jpg",
+        "alt": "台面检验区"
+      },
+      {
+        "id": "f6b",
+        "label": "07",
+        "title": "墓碑检验",
+        "description": "",
+        "image": "/assets/factory/factory-07.jpg",
+        "alt": "墓碑检验"
+      },
+      {
+        "id": "f7",
+        "label": "08",
+        "title": "台面包装",
+        "description": "",
+        "image": "/assets/factory/factory-08.jpg",
+        "alt": "台面包装"
+      },
+      {
+        "id": "f7b",
+        "label": "09",
+        "title": "墓碑仓库",
+        "description": "",
+        "image": "/assets/factory/factory-09.jpg",
+        "alt": "墓碑仓库"
+      },
+      {
+        "id": "f8",
+        "label": "10",
+        "title": "包装",
+        "description": "",
+        "image": "/assets/factory/factory-10.jpg",
+        "alt": "包装"
+      },
+      {
+        "id": "f8b",
+        "label": "11",
+        "title": "包装",
+        "description": "",
+        "image": "/assets/factory/factory-11.jpg",
+        "alt": "包装"
+      },
+      {
+        "id": "f8c",
+        "label": "12",
+        "title": "包装",
+        "description": "",
+        "image": "/assets/factory/factory-12.jpg",
+        "alt": "包装"
+      },
+      {
+        "id": "f9",
+        "label": "13",
+        "title": "发货仓库",
+        "description": "",
+        "image": "/assets/factory/factory-13.jpg",
+        "alt": "发货仓库"
+      },
+      {
+        "id": "f10",
+        "label": "14",
+        "title": "装货月台",
+        "description": "",
+        "image": "/assets/factory/factory-14.jpg",
+        "alt": "装货月台"
+      }
+    ],
+    "factoryHint": "← 拖动或点击左右按钮查看 →",
+    "videos": [
+      {
+        "id": "factory-tour-part-1",
+        "title": "工厂参观 — 第 1 部分",
+        "youtubeId": "WXB1pPSJNJs"
+      },
+      {
+        "id": "factory-tour-part-2",
+        "title": "工厂参观 — 第 2 部分",
+        "youtubeId": "1ueokT4t1fE"
+      }
+    ],
+    "videosHint": "更多视频即将上线。",
+    "about": {
+      "description": "Top Prime Stone Cambodia 是一家领先的花岗岩制造商，也是 Cambodia Grey 自豪的矿山所有者。我们专注于高品质墓碑、台面和定制规格板解决方案。期待与您在此相会，共同探索新的合作机会。",
+      "secondary": "",
+      "image": "/assets/factory/warehouse-exterior.jpg",
+      "imageAlt": "TOP PRIME 厂房外观",
+      "addressLabel": "基地",
+      "address": "Ou Snuol Village, Toap Mean Commune, Thpong District, Kampong Speu Province, Cambodia"
+    },
+    "contact": {
+      "description": "如果你有石材、定制加工或合作需求，欢迎留下信息。",
+      "details": {
+        "phone": {
+          "label": "电话",
+          "value": "+86 13806008760",
+          "href": "tel:+8613806008760"
+        },
+        "email": {
+          "label": "邮箱",
+          "value": "sales@topprimestone.com",
+          "href": "mailto:sales@topprimestone.com"
+        },
+        "whatsapp": {
+          "label": "WhatsApp",
+          "value": "+86 13806008760",
+          "href": "https://wa.me/8613806008760",
+          "external": true
+        }
+      },
+      "addressLabel": "地址",
+      "address": "Ou Snuol Village, Toap Mean Commune, Thpong District, Kampong Speu Province, Cambodia",
+      "websiteLabel": "网站",
+      "website": {
+        "value": "topprimestone.com",
+        "href": "https://topprimestone.com",
+        "external": true
+      }
+    },
+    "form": {
+      "name": "姓名",
+      "company": "公司",
+      "email": "电子邮件",
+      "phone": "电话 / WhatsApp",
+      "material": "感兴趣的石材",
+      "materialPlaceholder": "选择石材",
+      "message": "项目详情",
+      "messagePlaceholder": "请告诉我们石材、尺寸、表面或项目需求。",
+      "submit": "提交询盘",
+      "required": "必填",
+      "success": "感谢留言，您的询盘已准备好进入下一步沟通。",
+      "note": "当前为本地演示，正式上线前可接入真实邮箱或 CRM。",
+      "options": [
+        "Cambodia Grey",
+        "Cambodia Luna Pearl",
+        "Cambodia Impala",
+        "Cambodia Black"
+      ]
+    },
+    "footer": {
+      "line": "天然石材，靠近真实源头。",
+      "copyright": "© 2026 TOP PRIME STONE CAMBODIA Co., Ltd."
+    }
+  }
+}
