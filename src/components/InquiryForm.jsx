@@ -1,5 +1,7 @@
 import { useState } from 'react';
 
+const FORM_ENDPOINT = 'https://formspree.io/f/mzebgknv';
+
 const initialValues = {
   name: '',
   company: '',
@@ -11,17 +13,33 @@ const initialValues = {
 
 export default function InquiryForm({ content, onSubmitted }) {
   const [values, setValues] = useState(initialValues);
+  const [sending, setSending] = useState(false);
+  const [error, setError] = useState(false);
 
   const handleChange = (event) => {
     const { name, value } = event.target;
     setValues((current) => ({ ...current, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
     if (!event.currentTarget.checkValidity()) return;
-    onSubmitted();
-    setValues(initialValues);
+    setSending(true);
+    setError(false);
+    try {
+      const response = await fetch(FORM_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(values),
+      });
+      if (!response.ok) throw new Error(`Formspree responded ${response.status}`);
+      onSubmitted();
+      setValues(initialValues);
+    } catch (err) {
+      setError(true);
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -55,8 +73,11 @@ export default function InquiryForm({ content, onSubmitted }) {
         <span>{content.form.message}</span>
         <textarea name="message" value={values.message} onChange={handleChange} placeholder={content.form.messagePlaceholder} rows="5" />
       </label>
-      <button className="button button--solid form-submit" type="submit">{content.form.submit}</button>
-      <p className="form-note">{content.form.note}</p>
+      <button className="button button--solid form-submit" type="submit" disabled={sending}>
+        {sending ? content.form.sending : content.form.submit}
+      </button>
+      {error && <p className="form-error" role="alert">{content.form.error}</p>}
     </form>
   );
 }
+
