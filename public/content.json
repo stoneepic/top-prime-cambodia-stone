@@ -796,6 +796,11 @@
     "factoryHint": "Drag to explore, or use the arrows.",
     "videos": [
       {
+        "id": "factory-production-process",
+        "title": "Factory Production Process-Top Prime Stone Cambodia",
+        "youtubeId": "HDxo0a3AS80"
+      },
+      {
         "id": "factory-tour-part-1",
         "title": "Factory Tour — Part 1",
         "youtubeId": "WXB1pPSJNJs"
@@ -1671,6 +1676,11 @@
     ],
     "factoryHint": "← 拖动或点击左右按钮查看 →",
     "videos": [
+      {
+        "id": "factory-production-process",
+        "title": "工厂生产流程",
+        "youtubeId": "HDxo0a3AS80"
+      },
       {
         "id": "factory-tour-part-1",
         "title": "工厂参观 — 第 1 部分",

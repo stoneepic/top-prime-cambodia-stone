@@ -291,6 +291,7 @@ const english = {
   factory: factoryItems,
   factoryHint: 'Drag to explore, or use the arrows.',
   videos: [
+    { id: 'factory-production-process', title: 'Factory Production Process-Top Prime Stone Cambodia', youtubeId: 'HDxo0a3AS80' },
     { id: 'factory-tour-part-1', title: 'Factory Tour — Part 1', youtubeId: 'WXB1pPSJNJs' },
     { id: 'factory-tour-part-2', title: 'Factory Tour — Part 2', youtubeId: '1ueokT4t1fE' },
   ],
@@ -463,6 +464,7 @@ export const siteContent = {
     factory: chineseFactory,
     factoryHint: '← 拖动或点击左右按钮查看 →',
     videos: [
+      { id: 'factory-production-process', title: '工厂生产流程', youtubeId: 'HDxo0a3AS80' },
       { id: 'factory-tour-part-1', title: '工厂参观 — 第 1 部分', youtubeId: 'WXB1pPSJNJs' },
       { id: 'factory-tour-part-2', title: '工厂参观 — 第 2 部分', youtubeId: '1ueokT4t1fE' },
     ],
