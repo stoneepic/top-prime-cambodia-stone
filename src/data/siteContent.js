@@ -277,6 +277,12 @@ const english = {
         id: 'building-material',
         title: 'Building Material',
         images: [
+          { image: '/assets/products/building/building-04.jpg', alt: 'Curb Stone' },
+          { image: '/assets/products/building/building-05.jpg', alt: 'Curb Stone 2' },
+          { image: '/assets/products/building/building-06.jpg', alt: 'Curb Stone 3' },
+          { image: '/assets/products/building/building-07.jpg', alt: 'Impala Slabs' },
+          { image: '/assets/products/building/building-08.jpg', alt: 'Pavers Packing' },
+          { image: '/assets/products/building/building-09.jpg', alt: 'Polished Impala Slabs' },
           { image: '/assets/products/building/building-01.jpg', alt: 'Flooring' },
           { image: '/assets/products/building/building-02.jpg', alt: 'Swimming Pool Cap' },
           { image: '/assets/products/building/building-03.jpg', alt: 'Swimming Pool Cap 2' },
