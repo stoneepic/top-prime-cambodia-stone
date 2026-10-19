@@ -620,6 +620,42 @@
           "title": "Building Material",
           "images": [
             {
+              "image": "/assets/products/building/building-10.jpg",
+              "alt": "Cambodia Grey Slab"
+            },
+            {
+              "image": "/assets/products/building/building-11.jpg",
+              "alt": "Cambodia Grey Slabs"
+            },
+            {
+              "image": "/assets/products/building/building-12.jpg",
+              "alt": "Cambodia Impala Half Slab Packing"
+            },
+            {
+              "image": "/assets/products/building/building-13.jpg",
+              "alt": "Cambodia Impala Slab"
+            },
+            {
+              "image": "/assets/products/building/building-14.jpg",
+              "alt": "Cambodia Impala Swimming Pool Cap"
+            },
+            {
+              "image": "/assets/products/building/building-15.jpg",
+              "alt": "Cambodia Impala Swimming Pool Cap 2"
+            },
+            {
+              "image": "/assets/products/building/building-16.jpg",
+              "alt": "Cambodia Impala Swimming Pool Corner"
+            },
+            {
+              "image": "/assets/products/building/building-17.jpg",
+              "alt": "Curbstone"
+            },
+            {
+              "image": "/assets/products/building/building-18.jpg",
+              "alt": "Curbstone 2"
+            },
+            {
               "image": "/assets/products/building/building-04.jpg",
               "alt": "Curb Stone"
             },
