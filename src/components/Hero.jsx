@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 
 const HERO_IMAGES = [
+  { src: '/assets/factory/drone-copy.jpg', alt: 'TOP PRIME factory aerial view' },
   { src: '/assets/factory/warehouse-hero.jpg', alt: 'TOP PRIME warehouse' },
   { src: '/assets/factory/office-hero.jpg', alt: 'TOP PRIME office' },
-  { src: '/assets/factory/drone.jpg', alt: 'TOP PRIME factory aerial view' },
 ];
 
 const ROTATE_MS = 5000;
