@@ -314,7 +314,7 @@ const english = {
   about: {
     description: 'Top Prime Stone Cambodia is a leading granite manufacturer and the proud quarry owner of Cambodia Grey. We specialize in high-quality tombstones, countertops, and custom cut-to-size solutions. We are excited to meet you here and explore new growth opportunities together.',
     secondary: '',
-    image: '/assets/factory/warehouse-exterior.jpg',
+    image: '/assets/factory/drone.jpg',
     imageAlt: 'TOP PRIME stone factory exterior',
     addressLabel: 'Base',
     address: 'Ou Snuol Village, Toap Mean Commune, Thpong District, Kampong Speu Province, Cambodia',
