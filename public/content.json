@@ -757,79 +757,79 @@
         "alt": "Automatic polishing"
       },
       {
-        "id": "f3",
+        "id": "f3a",
         "label": "03",
-        "title": "Hand Polishing Line",
+        "title": "Bushhammered Machine",
         "description": "",
         "image": "/assets/factory/factory-03.jpg",
+        "alt": "Bushhammered machine"
+      },
+      {
+        "id": "f3b",
+        "label": "04",
+        "title": "Flaming Machine",
+        "description": "",
+        "image": "/assets/factory/factory-04.jpg",
+        "alt": "Flaming machine"
+      },
+      {
+        "id": "f3",
+        "label": "05",
+        "title": "Hand Polishing Line",
+        "description": "",
+        "image": "/assets/factory/factory-05.jpg",
         "alt": "Hand polishing line"
       },
       {
         "id": "f4",
-        "label": "04",
+        "label": "06",
         "title": "Hand Craft",
         "description": "",
-        "image": "/assets/factory/factory-04.jpg",
+        "image": "/assets/factory/factory-06.jpg",
         "alt": "Hand craft"
       },
       {
         "id": "f5",
-        "label": "05",
+        "label": "07",
         "title": "Stone Vest Production Line",
         "description": "",
-        "image": "/assets/factory/factory-05.jpg",
+        "image": "/assets/factory/factory-07.jpg",
         "alt": "Stone vest production line"
       },
       {
         "id": "f6",
-        "label": "06",
+        "label": "08",
         "title": "Countertop Inspection Area",
         "description": "",
-        "image": "/assets/factory/factory-06.jpg",
+        "image": "/assets/factory/factory-08.jpg",
         "alt": "Countertop inspection area"
       },
       {
         "id": "f6b",
-        "label": "07",
+        "label": "09",
         "title": "Tombstone Inspection",
         "description": "",
-        "image": "/assets/factory/factory-07.jpg",
+        "image": "/assets/factory/factory-09.jpg",
         "alt": "Tombstone inspection"
       },
       {
         "id": "f7",
-        "label": "08",
+        "label": "10",
         "title": "Countertop Packing",
         "description": "",
-        "image": "/assets/factory/factory-08.jpg",
+        "image": "/assets/factory/factory-10.jpg",
         "alt": "Countertop packing"
       },
       {
         "id": "f7b",
-        "label": "09",
+        "label": "11",
         "title": "Tombstone Warehouse",
         "description": "",
-        "image": "/assets/factory/factory-09.jpg",
+        "image": "/assets/factory/factory-11.jpg",
         "alt": "Tombstone warehouse"
       },
       {
         "id": "f8",
-        "label": "10",
-        "title": "Packing",
-        "description": "",
-        "image": "/assets/factory/factory-10.jpg",
-        "alt": "Packing"
-      },
-      {
-        "id": "f8b",
-        "label": "11",
-        "title": "Packing",
-        "description": "",
-        "image": "/assets/factory/factory-11.jpg",
-        "alt": "Packing"
-      },
-      {
-        "id": "f8c",
         "label": "12",
         "title": "Packing",
         "description": "",
@@ -837,19 +837,35 @@
         "alt": "Packing"
       },
       {
-        "id": "f9",
+        "id": "f8b",
         "label": "13",
-        "title": "Shipping Warehouse",
+        "title": "Packing",
         "description": "",
         "image": "/assets/factory/factory-13.jpg",
+        "alt": "Packing"
+      },
+      {
+        "id": "f8c",
+        "label": "14",
+        "title": "Packing",
+        "description": "",
+        "image": "/assets/factory/factory-14.jpg",
+        "alt": "Packing"
+      },
+      {
+        "id": "f9",
+        "label": "15",
+        "title": "Shipping Warehouse",
+        "description": "",
+        "image": "/assets/factory/factory-15.jpg",
         "alt": "Shipping warehouse"
       },
       {
         "id": "f10",
-        "label": "14",
+        "label": "16",
         "title": "Loading Dock",
         "description": "",
-        "image": "/assets/factory/factory-14.jpg",
+        "image": "/assets/factory/factory-16.jpg",
         "alt": "Loading dock"
       }
     ],
@@ -1638,79 +1654,79 @@
         "alt": "自动抛光"
       },
       {
-        "id": "f3",
+        "id": "f3a",
         "label": "03",
-        "title": "手抛线",
+        "title": "荔枝面机",
         "description": "",
         "image": "/assets/factory/factory-03.jpg",
+        "alt": "荔枝面机"
+      },
+      {
+        "id": "f3b",
+        "label": "04",
+        "title": "火烧面机",
+        "description": "",
+        "image": "/assets/factory/factory-04.jpg",
+        "alt": "火烧面机"
+      },
+      {
+        "id": "f3",
+        "label": "05",
+        "title": "手抛线",
+        "description": "",
+        "image": "/assets/factory/factory-05.jpg",
         "alt": "手抛线"
       },
       {
         "id": "f4",
-        "label": "04",
+        "label": "06",
         "title": "手工制作",
         "description": "",
-        "image": "/assets/factory/factory-04.jpg",
+        "image": "/assets/factory/factory-06.jpg",
         "alt": "手工制作"
       },
       {
         "id": "f5",
-        "label": "05",
+        "label": "07",
         "title": "石材背心生产线",
         "description": "",
-        "image": "/assets/factory/factory-05.jpg",
+        "image": "/assets/factory/factory-07.jpg",
         "alt": "石材背心生产线"
       },
       {
         "id": "f6",
-        "label": "06",
+        "label": "08",
         "title": "台面检验区",
         "description": "",
-        "image": "/assets/factory/factory-06.jpg",
+        "image": "/assets/factory/factory-08.jpg",
         "alt": "台面检验区"
       },
       {
         "id": "f6b",
-        "label": "07",
+        "label": "09",
         "title": "墓碑检验",
         "description": "",
-        "image": "/assets/factory/factory-07.jpg",
+        "image": "/assets/factory/factory-09.jpg",
         "alt": "墓碑检验"
       },
       {
         "id": "f7",
-        "label": "08",
+        "label": "10",
         "title": "台面包装",
         "description": "",
-        "image": "/assets/factory/factory-08.jpg",
+        "image": "/assets/factory/factory-10.jpg",
         "alt": "台面包装"
       },
       {
         "id": "f7b",
-        "label": "09",
+        "label": "11",
         "title": "墓碑仓库",
         "description": "",
-        "image": "/assets/factory/factory-09.jpg",
+        "image": "/assets/factory/factory-11.jpg",
         "alt": "墓碑仓库"
       },
       {
         "id": "f8",
-        "label": "10",
-        "title": "包装",
-        "description": "",
-        "image": "/assets/factory/factory-10.jpg",
-        "alt": "包装"
-      },
-      {
-        "id": "f8b",
-        "label": "11",
-        "title": "包装",
-        "description": "",
-        "image": "/assets/factory/factory-11.jpg",
-        "alt": "包装"
-      },
-      {
-        "id": "f8c",
         "label": "12",
         "title": "包装",
         "description": "",
@@ -1718,19 +1734,35 @@
         "alt": "包装"
       },
       {
-        "id": "f9",
+        "id": "f8b",
         "label": "13",
-        "title": "发货仓库",
+        "title": "包装",
         "description": "",
         "image": "/assets/factory/factory-13.jpg",
+        "alt": "包装"
+      },
+      {
+        "id": "f8c",
+        "label": "14",
+        "title": "包装",
+        "description": "",
+        "image": "/assets/factory/factory-14.jpg",
+        "alt": "包装"
+      },
+      {
+        "id": "f9",
+        "label": "15",
+        "title": "发货仓库",
+        "description": "",
+        "image": "/assets/factory/factory-15.jpg",
         "alt": "发货仓库"
       },
       {
         "id": "f10",
-        "label": "14",
+        "label": "16",
         "title": "装货月台",
         "description": "",
-        "image": "/assets/factory/factory-14.jpg",
+        "image": "/assets/factory/factory-16.jpg",
         "alt": "装货月台"
       }
     ],
